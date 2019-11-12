@@ -6,7 +6,7 @@
 
 This is a **bold** *italic* text sample.
 
-This is [hyperlink](https://github.com/neolee/pilot).
+This is [hyperlink](more.md).
 
 > 这个仓库（repo）里保存的是教材，也就是需要你阅读和学习的内容。我们另外还有个 repo 是你的学习用书，我们会在下面告诉你如何使用这两个仓库。
 >
